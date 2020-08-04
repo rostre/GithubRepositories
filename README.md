@@ -1,4 +1,6 @@
-## GitHubRepoList is a simple app that connects to the GitHub API to retrieve and display a list of repositories
+## Android Networking With Kotlin
+
+Get started with Android networking by creating a simple app that connects to the GitHub API to retrieve and display a list of repositories.
 
 - Check network connection status
 - Perform network operations
